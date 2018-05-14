@@ -1,0 +1,42 @@
+﻿  Transform.cpp
+  scene.cpp
+c:\blayne\concordia\comp426 - multicore programming\bphyscisengine2d\bphyscisengine2d\bwidget.h(10): fatal error C1083: Cannot open include file: 'CL\cl.h': No such file or directory
+  Mesh.cpp
+  Main.cpp
+c:\blayne\concordia\comp426 - multicore programming\bphyscisengine2d\bphyscisengine2d\main.cpp(4): fatal error C1083: Cannot open include file: 'CL\cl.h': No such file or directory
+  text2D.cpp
+c:\blayne\concordia\comp426 - multicore programming\bphyscisengine2d\bphyscisengine2d\dependencies\text\text2d.cpp(40): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\blayne\concordia\comp426 - multicore programming\bphyscisengine2d\bphyscisengine2d\dependencies\text\text2d.cpp(104): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  texture.cpp
+  shader.cpp
+  bWidget.cpp
+c:\blayne\concordia\comp426 - multicore programming\bphyscisengine2d\bphyscisengine2d\bwidget.h(10): fatal error C1083: Cannot open include file: 'CL\cl.h': No such file or directory
+  bUtils.cpp
+c:\blayne\concordia\comp426 - multicore programming\bphyscisengine2d\bphyscisengine2d\butils.cpp(13): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\blayne\concordia\comp426 - multicore programming\bphyscisengine2d\bphyscisengine2d\butils.cpp(54): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\blayne\concordia\comp426 - multicore programming\bphyscisengine2d\bphyscisengine2d\butils.cpp(55): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\blayne\concordia\comp426 - multicore programming\bphyscisengine2d\bphyscisengine2d\butils.cpp(56): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\blayne\concordia\comp426 - multicore programming\bphyscisengine2d\bphyscisengine2d\butils.cpp(79): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\blayne\concordia\comp426 - multicore programming\bphyscisengine2d\bphyscisengine2d\butils.cpp(81): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\blayne\concordia\comp426 - multicore programming\bphyscisengine2d\bphyscisengine2d\butils.cpp(82): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\blayne\concordia\comp426 - multicore programming\bphyscisengine2d\bphyscisengine2d\butils.cpp(86): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\blayne\concordia\comp426 - multicore programming\bphyscisengine2d\bphyscisengine2d\butils.cpp(88): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\blayne\concordia\comp426 - multicore programming\bphyscisengine2d\bphyscisengine2d\butils.cpp(89): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  bShader.cpp
+  bRigidbody2D.cpp
+c:\blayne\concordia\comp426 - multicore programming\bphyscisengine2d\bphyscisengine2d\brigidbody2d.cpp(20): warning C4305: '=': truncation from 'double' to 'float'
+  bPoly.cpp
+  bPhysics.cpp
+c:\blayne\concordia\comp426 - multicore programming\bphyscisengine2d\bphyscisengine2d\bphysics.h(5): fatal error C1083: Cannot open include file: 'CL\cl.h': No such file or directory
+  bManifold.cpp
+c:\blayne\concordia\comp426 - multicore programming\bphyscisengine2d\bphyscisengine2d\bcollision.h(2): warning C4005: 'FLT_MAX': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\float.h(86): note: see previous definition of 'FLT_MAX'
+c:\blayne\concordia\comp426 - multicore programming\bphyscisengine2d\bphyscisengine2d\bwidget.h(10): fatal error C1083: Cannot open include file: 'CL\cl.h': No such file or directory
+  bCollision.cpp
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\float.h(86): warning C4005: 'FLT_MAX': macro redefinition
+  c:\blayne\concordia\comp426 - multicore programming\bphyscisengine2d\bphyscisengine2d\bcollision.h(2): note: see previous definition of 'FLT_MAX'
+c:\blayne\concordia\comp426 - multicore programming\bphyscisengine2d\bphyscisengine2d\bwidget.h(10): fatal error C1083: Cannot open include file: 'CL\cl.h': No such file or directory
+  bCircle.cpp
+  bQuadTree.cpp
+c:\blayne\concordia\comp426 - multicore programming\bphyscisengine2d\bphyscisengine2d\bwidget.h(10): fatal error C1083: Cannot open include file: 'CL\cl.h': No such file or directory
+  Generating Code...

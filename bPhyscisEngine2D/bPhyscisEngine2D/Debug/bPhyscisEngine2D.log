@@ -1,0 +1,125 @@
+﻿Build started 11/19/2015 9:12:58 PM.
+     1>Project "H:\Projects\Concordia\COMP 426 - Multicore Programming\bPhyscisEngine2D\bPhyscisEngine2D\bPhyscisEngine2D.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I\Dependencies\ /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+     1>h:\projects\concordia\comp 426 - multicore programming\bphyscisengine2d\bphyscisengine2d\main.cpp(130): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+     1>h:\projects\concordia\comp 426 - multicore programming\bphyscisengine2d\bphyscisengine2d\main.cpp(151): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+     1>h:\projects\concordia\comp 426 - multicore programming\bphyscisengine2d\bphyscisengine2d\main.cpp(164): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+     1>h:\projects\concordia\comp 426 - multicore programming\bphyscisengine2d\bphyscisengine2d\main.cpp(165): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+     1>h:\projects\concordia\comp 426 - multicore programming\bphyscisengine2d\bphyscisengine2d\main.cpp(166): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>h:\projects\concordia\comp 426 - multicore programming\bphyscisengine2d\bphyscisengine2d\main.cpp(204): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>h:\projects\concordia\comp 426 - multicore programming\bphyscisengine2d\bphyscisengine2d\main.cpp(205): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>h:\projects\concordia\comp 426 - multicore programming\bphyscisengine2d\bphyscisengine2d\main.cpp(210): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+     1>h:\projects\concordia\comp 426 - multicore programming\bphyscisengine2d\bphyscisengine2d\main.cpp(211): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+     1>h:\projects\concordia\comp 426 - multicore programming\bphyscisengine2d\bphyscisengine2d\main.cpp(213): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+     1>h:\projects\concordia\comp 426 - multicore programming\bphyscisengine2d\bphyscisengine2d\main.cpp(214): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>h:\projects\concordia\comp 426 - multicore programming\bphyscisengine2d\bphyscisengine2d\main.cpp(223): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>h:\projects\concordia\comp 426 - multicore programming\bphyscisengine2d\bphyscisengine2d\main.cpp(224): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>h:\projects\concordia\comp 426 - multicore programming\bphyscisengine2d\bphyscisengine2d\main.cpp(229): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+     1>h:\projects\concordia\comp 426 - multicore programming\bphyscisengine2d\bphyscisengine2d\main.cpp(230): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+     1>h:\projects\concordia\comp 426 - multicore programming\bphyscisengine2d\bphyscisengine2d\main.cpp(232): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+     1>h:\projects\concordia\comp 426 - multicore programming\bphyscisengine2d\bphyscisengine2d\main.cpp(233): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>h:\projects\concordia\comp 426 - multicore programming\bphyscisengine2d\bphyscisengine2d\main.cpp(253): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>h:\projects\concordia\comp 426 - multicore programming\bphyscisengine2d\bphyscisengine2d\main.cpp(320): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>h:\projects\concordia\comp 426 - multicore programming\bphyscisengine2d\bphyscisengine2d\main.cpp(321): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>h:\projects\concordia\comp 426 - multicore programming\bphyscisengine2d\bphyscisengine2d\main.cpp(322): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>h:\projects\concordia\comp 426 - multicore programming\bphyscisengine2d\bphyscisengine2d\main.cpp(323): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>h:\projects\concordia\comp 426 - multicore programming\bphyscisengine2d\bphyscisengine2d\main.cpp(324): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>h:\projects\concordia\comp 426 - multicore programming\bphyscisengine2d\bphyscisengine2d\main.cpp(345): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+     1>h:\projects\concordia\comp 426 - multicore programming\bphyscisengine2d\bphyscisengine2d\main.cpp(376): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+     1>h:\projects\concordia\comp 426 - multicore programming\bphyscisengine2d\bphyscisengine2d\main.cpp(376): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+     1>h:\projects\concordia\comp 426 - multicore programming\bphyscisengine2d\bphyscisengine2d\main.cpp(377): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+     1>h:\projects\concordia\comp 426 - multicore programming\bphyscisengine2d\bphyscisengine2d\main.cpp(377): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+     1>h:\projects\concordia\comp 426 - multicore programming\bphyscisengine2d\bphyscisengine2d\main.cpp(391): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+     1>h:\projects\concordia\comp 426 - multicore programming\bphyscisengine2d\bphyscisengine2d\main.cpp(405): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"H:\Projects\Concordia\COMP 426 - Multicore Programming\bPhyscisEngine2D\Debug\bPhyscisEngine2D.exe" /INCREMENTAL /NOLOGO /LIBPATH:Dependencies\ glfw3dll.lib glew32.lib freeglutd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"H:\Projects\Concordia\COMP 426 - Multicore Programming\bPhyscisEngine2D\Debug\bPhyscisEngine2D.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"H:\Projects\Concordia\COMP 426 - Multicore Programming\bPhyscisEngine2D\Debug\bPhyscisEngine2D.lib" /MACHINE:X86 Debug\bCircle.obj
+         Debug\bCollision.obj
+         Debug\bManifold.obj
+         Debug\bPhysics.obj
+         Debug\bPoly.obj
+         Debug\bRigidbody2D.obj
+         Debug\bShader.obj
+         Debug\bUtils.obj
+         Debug\bWidget.obj
+         Debug\shader.obj
+         Debug\texture.obj
+         Debug\text2D.obj
+         Debug\Main.obj
+         Debug\Mesh.obj
+         Debug\scene.obj
+         Debug\Shape.obj
+         Debug\Transform.obj
+     1>bPhysics.obj : error LNK2019: unresolved external symbol _glfwGetTime referenced in function "public: __thiscall bPhysics::bPhysics(void)" (??0bPhysics@@QAE@XZ)
+     1>bUtils.obj : error LNK2001: unresolved external symbol _glfwGetTime
+     1>Main.obj : error LNK2001: unresolved external symbol _glfwGetTime
+     1>bPoly.obj : error LNK2001: unresolved external symbol "public: virtual enum Shape::Type __thiscall bPoly::GetType(void)" (?GetType@bPoly@@UAE?AW4Type@Shape@@XZ)
+     1>bWidget.obj : error LNK2001: unresolved external symbol __imp____glewActiveTexture
+     1>text2D.obj : error LNK2001: unresolved external symbol __imp____glewActiveTexture
+     1>Main.obj : error LNK2001: unresolved external symbol __imp____glewActiveTexture
+     1>bWidget.obj : error LNK2001: unresolved external symbol __imp____glewBindBuffer
+     1>text2D.obj : error LNK2001: unresolved external symbol __imp____glewBindBuffer
+     1>bWidget.obj : error LNK2001: unresolved external symbol __imp____glewBufferData
+     1>text2D.obj : error LNK2001: unresolved external symbol __imp____glewBufferData
+     1>bWidget.obj : error LNK2001: unresolved external symbol __imp____glewGenBuffers
+     1>text2D.obj : error LNK2001: unresolved external symbol __imp____glewGenBuffers
+     1>bWidget.obj : error LNK2001: unresolved external symbol __imp____glewDisableVertexAttribArray
+     1>text2D.obj : error LNK2001: unresolved external symbol __imp____glewDisableVertexAttribArray
+     1>bWidget.obj : error LNK2001: unresolved external symbol __imp____glewEnableVertexAttribArray
+     1>text2D.obj : error LNK2001: unresolved external symbol __imp____glewEnableVertexAttribArray
+     1>bWidget.obj : error LNK2001: unresolved external symbol __imp____glewGetUniformLocation
+     1>text2D.obj : error LNK2001: unresolved external symbol __imp____glewGetUniformLocation
+     1>Main.obj : error LNK2001: unresolved external symbol __imp____glewGetUniformLocation
+     1>bWidget.obj : error LNK2001: unresolved external symbol __imp____glewUniform1i
+     1>text2D.obj : error LNK2001: unresolved external symbol __imp____glewUniform1i
+     1>Main.obj : error LNK2001: unresolved external symbol __imp____glewUniform1i
+     1>bWidget.obj : error LNK2001: unresolved external symbol __imp____glewUniform3f
+     1>bWidget.obj : error LNK2001: unresolved external symbol __imp____glewUniformMatrix4fv
+     1>bWidget.obj : error LNK2001: unresolved external symbol __imp____glewUseProgram
+     1>text2D.obj : error LNK2001: unresolved external symbol __imp____glewUseProgram
+     1>bWidget.obj : error LNK2001: unresolved external symbol __imp____glewVertexAttribPointer
+     1>text2D.obj : error LNK2001: unresolved external symbol __imp____glewVertexAttribPointer
+     1>shader.obj : error LNK2001: unresolved external symbol __imp____glewAttachShader
+     1>shader.obj : error LNK2001: unresolved external symbol __imp____glewCompileShader
+     1>shader.obj : error LNK2001: unresolved external symbol __imp____glewCreateProgram
+     1>shader.obj : error LNK2001: unresolved external symbol __imp____glewCreateShader
+     1>shader.obj : error LNK2001: unresolved external symbol __imp____glewDeleteShader
+     1>shader.obj : error LNK2001: unresolved external symbol __imp____glewGetProgramInfoLog
+     1>shader.obj : error LNK2001: unresolved external symbol __imp____glewGetProgramiv
+     1>shader.obj : error LNK2001: unresolved external symbol __imp____glewGetShaderInfoLog
+     1>shader.obj : error LNK2001: unresolved external symbol __imp____glewGetShaderiv
+     1>shader.obj : error LNK2001: unresolved external symbol __imp____glewLinkProgram
+     1>shader.obj : error LNK2001: unresolved external symbol __imp____glewShaderSource
+     1>texture.obj : error LNK2001: unresolved external symbol __imp____glewCompressedTexImage2D
+     1>texture.obj : error LNK2001: unresolved external symbol __imp____glewGenerateMipmap
+     1>text2D.obj : error LNK2001: unresolved external symbol __imp____glewDeleteBuffers
+     1>text2D.obj : error LNK2001: unresolved external symbol __imp____glewDeleteProgram
+     1>Main.obj : error LNK2001: unresolved external symbol __imp____glewDeleteProgram
+     1>Main.obj : error LNK2019: unresolved external symbol __imp__glewInit@0 referenced in function _main
+     1>Main.obj : error LNK2019: unresolved external symbol _glfwInit referenced in function _main
+     1>Main.obj : error LNK2019: unresolved external symbol _glfwTerminate referenced in function _main
+     1>Main.obj : error LNK2019: unresolved external symbol _glfwWindowHint referenced in function _main
+     1>Main.obj : error LNK2019: unresolved external symbol _glfwCreateWindow referenced in function _main
+     1>Main.obj : error LNK2019: unresolved external symbol _glfwWindowShouldClose referenced in function _main
+     1>Main.obj : error LNK2019: unresolved external symbol _glfwGetWindowSize referenced in function _main
+     1>Main.obj : error LNK2019: unresolved external symbol _glfwPollEvents referenced in function _main
+     1>Main.obj : error LNK2019: unresolved external symbol _glfwSetInputMode referenced in function _main
+     1>Main.obj : error LNK2019: unresolved external symbol _glfwGetKey referenced in function _main
+     1>Main.obj : error LNK2019: unresolved external symbol _glfwGetMouseButton referenced in function _main
+     1>Main.obj : error LNK2019: unresolved external symbol _glfwGetCursorPos referenced in function _main
+     1>Main.obj : error LNK2019: unresolved external symbol _glfwMakeContextCurrent referenced in function _main
+     1>Main.obj : error LNK2019: unresolved external symbol _glfwSwapBuffers referenced in function _main
+     1>Main.obj : error LNK2001: unresolved external symbol __imp____glewBindVertexArray
+     1>Main.obj : error LNK2001: unresolved external symbol __imp____glewDeleteVertexArrays
+     1>Main.obj : error LNK2001: unresolved external symbol __imp____glewGenVertexArrays
+     1>Main.obj : error LNK2001: unresolved external symbol __imp__glewExperimental
+     1>Dependencies\glfw3dll.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'X86'
+     1>Dependencies\glew32.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'X86'
+     1>Dependencies\freeglutd.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'X86'
+     1>H:\Projects\Concordia\COMP 426 - Multicore Programming\bPhyscisEngine2D\Debug\bPhyscisEngine2D.exe : fatal error LNK1120: 47 unresolved externals
+     1>Done Building Project "H:\Projects\Concordia\COMP 426 - Multicore Programming\bPhyscisEngine2D\bPhyscisEngine2D\bPhyscisEngine2D.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.07
